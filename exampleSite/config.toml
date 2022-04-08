@@ -8,7 +8,7 @@ title = "Peelu Blogs"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Homepage1"
+name = "Homepage"
 parent = "Homepage"
 url = "http://palashraghuwanshi.com/"
 weight = 1
