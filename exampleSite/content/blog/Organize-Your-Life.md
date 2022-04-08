@@ -1,56 +1,40 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-1.jpg"
-categories: 
-  - "Valuable Idea"
+title: Essential Brain Foods
+date: 2022-04-08T18:30:00+00:00
+description: Brain is the  organ that requires energy to send nerve signals through
+  out the body and to function it requires good amount of nutrients as well.
+type: featured
+image: "/images/brain_featured.png"
+categories:
+- Brain
 tags:
-  - "Photos"
-  - "Finance"
+- Nutrients
+- Foods
+- Brain
+
 ---
+**Like any other organ, the human brain needs a constant supply of water and nutrients to maintain its health and to supply energy for efficient functioning.**
 
+**Feeding the Brain**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+![](/images/brain2.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+*  A healthy diet benefits both the mind and body. Complex carbohydrates provide a steady flow of fuel; these are found in wholegrain bread, brown rice, legumes, potatoes, and sweet potatoes.
+* Healthy fats are essentials for maintaining brain cells, and these fats come from oily fish, vegetable oils, and plant foods such as Avocados and flax seeds. Proteins supply amino acids. Fruits and vegetables supply water, vitamins, and fiber.
 
+**Hydration**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+![](/images/brain1.jpg)
 
+*  Brain cells need adequate amount of water in order to function effectively in our daily life. Studies have shown that **Dehydration** can impair our ability to concentrate and to perform mental tasks, and negatively affect our memory.
+*  Some of our water intake comes from the food we consume, but it is helpful to drink several glasses of water each day to maintain a healthy level of water.
 
-![](../images/post-img.jpg)
+**Essential Nutrients**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+*  Certain nutrients from food have been found to improve or maintain particular brain functions. These substances include vitamins and minerals, omega-3 and omega-6 fatty acids, antioxidants, and water.
+*  These essential nutrients help to keep our brain cells healthy, enable the cells to transmit signals quickly and effectively, reduce damage from inflammation and free radicals and help the cells to form new connections.
+* 3. They can also promote the production and function of neuro-transmitters. As a result, regularly eating foods that contain these nutrients can benefit memory, cognitive functions, concentration, and mood.
 
+**Sources of Nutrients :-** Fresh fruits and vegetables, beans and lentils, whole grains, healthy fats such as olive oil, and oily fish such as salmon, all supply vital nutrients for the **Brain.**
 
+**Interesting Fact :- The Brain is sixty percent fat and needs a steady supply of energy.**
