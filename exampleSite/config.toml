@@ -8,26 +8,22 @@ title = "Peelu Blogs"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-hasChildren = true
-name = "Homepage"
-url = ""
-weight = 1
-[[menu.main]]
 name = "Homepage 1"
 parent = "Homepage"
 url = "homepage/home-1/"
+weight = 1
 [[menu.main]]
-name = "Homepage 2"
-parent = "Homepage"
-url = "homepage/home-2/"
+name = "Contact"
+url = "contact/"
+weight = 3
 [[menu.main]]
 name = "About"
 url = "about/"
 weight = 2
 [[menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 3
+hasChildren = true
+name = "Homepage"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
