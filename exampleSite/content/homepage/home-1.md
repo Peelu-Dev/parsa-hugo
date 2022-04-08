@@ -1,4 +1,4 @@
 ---
-title: "Homepage 1"
+title: "Homepage"
 layout: "1"
 ---
