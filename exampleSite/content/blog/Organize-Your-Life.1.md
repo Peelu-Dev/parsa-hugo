@@ -1,56 +1,47 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-2.jpg"
-categories: 
-  - "Philosophy"
+title: How to slow the effects of ageing
+date: 2022-04-07T18:30:00+00:00
+description: This is meta description
+type: featured
+image: images/featured-post/post-2.jpg
+categories:
+- Brain
 tags:
-  - "Philosophy"
-  - "Photos"
+- Brain
+- Philosophy
+- Photos
+
 ---
+> As we age, our thinking and short-term memory may become less efficient. Nevertheless, we continue to learn until we die, and we can take active measures to keep our brains working well at any age.
 
+As we get older, most of us notice a slight reduction in thinking speed as well as in our working memory.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+1\. Some people experience severe decline or even dementia, but this is by no means inevitable. In fact, some cognitive capacities, such as our overall understanding of life, may even improve as we age.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+2\. We inherit our basic level of our cognitive functions from our parents, but this genetic blueprint is also affected by our environment and life experiences, including nutrition, health, education, stress levels and relationships.
 
+3\.Physically, socially, and intellectually stimulating activities also play a key role.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+**Preventing Decline**
 
+![](/images/ageing.jpg)
 
-![](../images/post-img.jpg)
+1\. We can take a variety of steps to safeguard our brain's health. A good diet high in vegetables, fruits, "good" quality fats and nutrients keeps both brain and body healthy, and do moderate but regualr physical activities.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+2\. Jogging or other aerobic exercise can help delay age-related declines both in memory and thinking speed.
 
+3\. You can also protect your brain health by avoiding toxins, such as alcohol and tobacco. Smoking has also been linked with damage to the brain's cortex and can decrease the amount of neurons in our brain.
 
+4\. keep your mind stimulated by doing some mental challenge activities that involve learning -"from home repairs to cooking to crossword puzzles-can stretch cognitive skills."
+
+5\. Consider learning a new language, as people who speaks two or more languages have stronger cognitive ability than those who speak just once.
+
+**To sum up, you can slow the cognitive ageing process by following steps:-**
+
+**1. Keeping your brain well supplied with oxygen and nutrients.**
+
+**2. Avoiding exposure to toxins such as alcohol, tobacco and nicotine.**
+
+**3. Exercising your body by building physical activities routine into your daily life.**
+
+**4. Exercising your mind by learning new skills.**
