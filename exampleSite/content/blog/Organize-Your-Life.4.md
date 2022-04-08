@@ -1,56 +1,36 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-5.jpg"
-categories: 
-  - "Nature"
+title: How to boost your creativity
+date: 2022-04-07T18:30:00+00:00
+description: 'Creativity is defined as the tendency to generate or recognize ideas,
+  alternatives, or possibilities that may be useful in solving problems, communicating
+  with others, and entertaining ourselves and others. (page 396) Three reasons why
+  people are motivated to be creative: need for novel, varied, and complex stimulation
+  need to communicate ideas and values.'
+type: featured
+image: images/featured-post/post-5.jpg
+categories:
+- Brain
 tags:
-  - "Fashion"
-  - "Nature"
+- Brain
+- Creativity
+- Nature
+
 ---
+**Just as exercise builds muscles and improves cardiovascular fitness, there are activities that can improve your creativity conditioning, by getting areas of the brain to work together in new ways.**
 
+* To boost creativity, you must first remove barriers to it. Stress, time limitation, and lack of sleep or exercise are known as creativity-killers.
+* People tend to be creative when they are are rested, happy, and can let their thoughts wander freely. Many people claims to have their best ideas during their morning shower or walk to work.
+* It seems that ideas flow most freely around our brains when they are not in a task-oriented state but instead in a condition called the resting state.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+**Cultivating new connections**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+**![](/images/creative.jpg)**
 
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-
-
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
+*  Routines help regulate our daily lives, but they also reinforce existing neural pathways. Creativity-friendly activities create new neural connections. Learning to play a musical instrument, for example, opens and strengthens links between different brain areas.
+* Simply varying your routine can also foster creativity, so pick a more interesting route to work, a color you don't usually wear, or a new recipe to cook. Surround yourself with like-minded, creative people as much as possible. Whether it is in a gallery or a garden shed, new inputs stimulates new ideas.
+*  Allow yourself to disconnect. If you are stuck in a queue, don't default your phone to check emails or social media; instead, zone out and let the ideas flow.
+* **The next time you are stuck for ideas, try one of the following given below:-**
+* **1. Get enough rest, de-stress and exercise.**
+* **2. Learn a new skill. Spend time with other creative people.**
+* **3. Think outside the box. Think of new ways to solve old problems.**
+* **4. Switch off from digital devices to give your brain some down-time.**
