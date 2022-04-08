@@ -1,10 +1,10 @@
 ---
-title: "About"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-image: "images/author.jpg"
----
+title: About
+date: 2022-04-07T18:30:00+00:00
+description: This is meta description
+image: images/profile.jpg
 
+---
 ### Hello, I’m **John Doe**
 
 Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea
