@@ -18,6 +18,7 @@ weight = 2
 [[menu.main]]
 hasChildren = true
 name = "Homepage"
+url = "http://palashraghuwanshi.com/"
 weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
