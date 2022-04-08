@@ -1,8 +1,8 @@
 ---
 title: About
-date: 2022-04-07T18:30:00+00:00
+date: 2022-04-07T18:30:00.000+00:00
 description: This is meta description
-image: images/profile.jpg
+image: images/author.jpg
 
 ---
 ### Hello, I’m **Palash Raghuwanshi**
