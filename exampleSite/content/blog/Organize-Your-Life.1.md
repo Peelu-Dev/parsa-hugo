@@ -3,7 +3,7 @@ title: How to slow the effects of ageing
 date: 2022-04-07T18:30:00+00:00
 description: This is meta description
 type: featured
-image: images/featured-post/post-2.jpg
+image: "/images/ageing.jpg"
 categories:
 - Brain
 tags:
