@@ -1,9 +1,9 @@
 ---
 title: How to slow the effects of ageing
-date: 2022-04-07T18:30:00+00:00
-description: This is meta description
+date: 2022-04-07T18:30:00.000+00:00
+description: Ageing is a big problem and this post shows how to stop it more quickly
 type: featured
-image: "/images/ageing.jpg"
+image: "/images/ageing_featured.png"
 categories:
 - Brain
 tags:
