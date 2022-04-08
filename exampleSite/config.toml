@@ -1,5 +1,5 @@
 baseurl = "https://palashraghuwanshi.com/"
-googleAnalytics = ""
+googleAnalytics = "G-KD0VM5DJ1B"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
@@ -19,25 +19,27 @@ hasChildren = true
 name = "Contact"
 url = "contact/"
 weight = 3
+
 [[menu.main]]
 name = "About"
 url = "about/"
 weight = 2
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
-author = "John Doe"
+address = "Kanhaiya Hazari Ka Bada, Vidisha (M.P), India"
+author = "Peelu"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "I’m interested in learning new activities day by day."
 contact_form_action = "#"
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](https://themefisher.com)"
-description = "This is meta description"
-email = "exmaple@ymail.com"
+copyright = "Copyright &copy; 2022 a theme by [themefisher.com](https://themefisher.com)"
+description = "Brain Psychology Arduino IOT"
+email = "palashraghuwanshi16@gmail.com"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
-mobile = "+90 000 333 22"
+mobile = "+91 9174151700"
 preloader = true
 search = true
 [params.cookies]
@@ -76,13 +78,16 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [[params.social]]
 icon = "ti-facebook"
-link = "https://facebook.com/themefisher"
+link = "https://www.facebook.com/palash.raghuwanshi.378"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/peeludev"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/in/palash-raghuwanshi-520412109/"
 [[params.social]]
 icon = "ti-github"
-link = "#"
+link = "https://github.com/Peelu-Dev/"
+[[params.social]]
+icon = "ti-instafeed"
+link = "https://www.instagram.com/peelu_raghuwanshi1/"
