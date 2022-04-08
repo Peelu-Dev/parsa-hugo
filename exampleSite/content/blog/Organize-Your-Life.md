@@ -3,7 +3,7 @@ title: Essential Brain Foods
 date: 2022-04-08T18:30:00+00:00
 description: Brain is the  organ that requires energy to send nerve signals through
   out the body and to function it requires good amount of nutrients as well.
-type: featured
+type: post
 image: "/images/brain_featured.png"
 categories:
 - Brain
